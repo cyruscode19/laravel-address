@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Seeders;
+
 use Illuminate\Database\Seeder;
 use Yajra\Address\Entities\City;
 use Yajra\Address\Entities\Region;
